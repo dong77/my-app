@@ -10,6 +10,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Typescript
 - connected-react-router
 
+### Tutorials:
+
+- https://github.com/reduxjs/rtk-convert-todos-example
+- https://github.com/reduxjs/rtk-github-issues-example
+
 ## Available Scripts
 
 In the project directory, you can run:
